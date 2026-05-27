@@ -14,3 +14,4 @@ Exemplo: duplicados.exe GO  --srag
 ~~~
   
   
+![x](/pictures/sinan_files_1.jpg)
