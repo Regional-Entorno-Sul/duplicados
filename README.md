@@ -12,4 +12,5 @@ duplicados.exe [sigla da UF] [modo]
 [modo] --srag: processa o arquivo 'dados_srag_duplicados'
 Exemplo: duplicados.exe GO  --srag
 ~~~
-
+  
+  
